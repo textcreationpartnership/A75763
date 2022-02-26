@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The atheisticall polititian or A briefe discourse concerning Ni. Machiavell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75763</idno>
+            <idno type="STC">Wing A4109</idno>
+            <idno type="STC">Thomason E127_43</idno>
+            <idno type="STC">ESTC R4648</idno>
+            <idno type="EEBO-CITATION">99872710</idno>
+            <idno type="PROQUEST">99872710</idno>
+            <idno type="VID">156225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156225)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The atheisticall polititian or A briefe discourse concerning Ni. Machiavell.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A veiled attack on the English government.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: the 23th 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Machiavelli, Niccolò, 1469-1527.</term>
+               <term>Europe --  History --  1492-1517 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:156225:1" rendition="simple:additions"/>
+            <head>THE ATHEISTICALL POLITITION OR A BREIFE DISCOURSE CONCERNING Ni. Machiavell.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>nouemb: the 23<hi rend="sup">th</hi> 1642</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">N</seg>icholas Machiavell</hi> is cride downe for a villaine, neither do I think he deſerves a better title, yet when I conſider he was not only an Italian but a Courtier, I cannot chooſe but commi<g ref="char:EOLhyphen"/>ſcrate his fortune, that he in perticular ſhould beare the markes, which belong to the wiſeſt Stateſmen in generall.</p>
+            <p>He that intends to expreſſe a diſhoneſt man cals him a Machi<g ref="char:EOLhyphen"/>avillian, when he might as iuſtly ſay a <hi>Straffordian</hi> or a <hi>Can<g ref="char:EOLhyphen"/>tabirian;</hi> We embrace the firſt apparition of vertue or vice, and let the ſubſtance paſſe by untoucht.</p>
+            <p>For if we examine the Life of <hi>Lewis</hi> the 11<hi rend="sup">th</hi> of <hi>France,</hi> we ſhall finde he acted more ill, than <hi>Machiavill</hi> writ, or for ought we know ever thought; yet he hath wiſedome inſcribed on his Tombe; And had he not kiſt his Crucifixe ever after the doing a diſhoneſt thing; pronouncing a ſentence or two that diſcovered the complexion of his heart, he might have paſt for as honeſt a man as all wiſe Anceſtors or any Prince living in his
+<pb n="2" facs="tcp:156225:2"/>time, who now lie quiet in their Graves; A favour this man is denied by ignorant and ungratefull poſterity.</p>
+            <p>He was Secretary to the ſtate of Florence, of which he hath written an excellent and impartiall Hiſtory, he had liv'd in the dayes of Pope <hi>Alexander</hi> the ſixth, been familiar with his Son <hi>Caeſar,</hi> and what theſe Princes were is ſufficiently knowne.</p>
+            <p>No time was fuller of action, nor ſhewed the inſtabilitie of worldly honours than the occurrences that happened in <hi>Italy</hi> at this time; Now from a man wholly imployed in Court affaires, where it was thought madneſſe to looke beyond ſe<g ref="char:EOLhyphen"/>cond cauſes; worſe things might have been with better reaſon expected, than theſe ſo bitterly condemn'd; which are indeed but the Hiſtorie of wiſe impieties, long before imprinted in the hearts of ambitious pretenders, and by him made legible to the meaneſt underſtanding, yet he is more blam'd for this faire expreſſion, than they are that daily commit farre greater im<g ref="char:EOLhyphen"/>piety, than his or any penelſe is able to expreſſe.</p>
+            <p>It was his profeſſion to imitate the behaviour of Princes were it never ſo unſeemly; Nay Religion cannot condemne the ſpeculation of ill in Miniſters of State without laying her ſelfe and profeſſours open to all injury.</p>
+            <p>For upon how great diſadvantage ſhould a good Prince treat with a bad Neighbour; if he were not onely familiar with the paths of wickedneſſe, but knew other wayes to ſhun them; and how to counterminde their treacherous practizes:</p>
+            <p>Do any blame <hi>Albertus</hi> for writing obſcenely, nay do they not rather call him the Great, becauſe he hath ſo plainly ſet open the Cloſet of Nature? Indeed if any can pretend a juſt quarrell to <hi>Machiavell,</hi> they are Kings; for as it is the ordinary courſe of light women, to findefault with the broad diſcourſe of that they maintaine their power by; So Stateſ-men may beſt blame the publication of theſe Maximes, that they may put them in practice with more profit and ſecuritie.</p>
+            <p>The unjuſt Steward is commended for his wordly wiſe<g ref="char:EOLhyphen"/>dome; and what doth he ſay more of <hi>Caeſar Borgia,</hi> than that he was a politike Tyrant? and if without leave of the Text he propoſe him for an Example, yet it is of ill; And who is
+<pb n="3" facs="tcp:156225:2"/>more fit to be a Paterne to a Villaine than one of the fame coat.</p>
+            <p>Moſt of the Eſtates in <hi>Italy</hi> did then voluntarily, or were compelled to change their maſters, neither could that Schoole teach him any thing more perfectly than the way to great<g ref="char:EOLhyphen"/>neſſe, nor he write a more acceptable Treatiſe then Apho<g ref="char:EOLhyphen"/>riſmes of State.</p>
+            <p>He ſaw the Kingdome of <hi>Naples</hi> torne out of the houſe of <hi>Angieu</hi> by <hi>Ferdinand,</hi> &amp; the people kept in Tyranny both by the Father and the Sonne; he ſaw the no leſſe mad than diſ<g ref="char:EOLhyphen"/>loyall ambition of <hi>Lodowick</hi> Duke of Millan, who tooke the government upon him out of the hands of young <hi>Galeas</hi> with as much treachery and cunning as <hi>Francis Sforca</hi> father to <hi>Galeas</hi> had done from the Dukes of Orleance; he beheld <hi>Charles</hi> the 8<hi rend="sup">th</hi> King of France brought into <hi>Italy</hi> by the ſaid Duke of Millan to keepe the people at gaſe, whileſt he poyſo<g ref="char:EOLhyphen"/>ned his Nephew, who was to expect the Dukedome when he came of age; He ſaw the diſcent of <hi>Charles</hi> winked at by Pope <hi>Alexander</hi> the ſixth, in hope to raiſe a houſe for his Son <hi>Caeſar</hi> out of the ruines of ſome of the Princes, in which he was deceived; For the French King made himſelfe Maſter of all <hi>Italy,</hi> entred <hi>Rome</hi> twice, put the holy Father to take Sanctua<g ref="char:EOLhyphen"/>ry in the Caſtle Saint <hi>Angelo,</hi> and there to ſubſcribe to ſuch conditions as the victorious King was pleaſed to preſcribe him; upon which his Holineſſe came out: And though <hi>Charles</hi> in ſhew of reverence did kiſſe his foot, yet he tooke his Sonne <hi>Caeſar</hi> for hoſtage, to ſecure the performance of his promiſe, though he covered it with the name of Embaſſage ever to re<g ref="char:EOLhyphen"/>ſide with the King in token of Amity; and after <hi>Caeſar</hi> had made an eſcape the Holy Father contrary to his oath made a league againſt the French King.</p>
+            <p>He was an eye-witneſſe of an Amitie contracted betweene the Vicar of Chriſt and his knowne enemie the Turke; with whom he agreed for money to poyſon his brother, who was fled into Chriſtendome for feare of <hi>Bajazet</hi> then raigning, and was under the Popes protection at Rome; And might have been of excellent uſe to any Prince that would have inva<g ref="char:EOLhyphen"/>ded the Turke, had not his holineſſe obſerved his promiſe to
+<pb n="4" facs="tcp:156225:3"/>this monſter, which he ſeldome kept with the beſt of men.</p>
+            <p>After all this he ſaw the <hi>French</hi> King looſe all <hi>Italy</hi> with the ſame dexterity he had gained it, And Pope <hi>Alexander</hi> and his ſon both overthrowne by owne draught of poyſon, prepared by themſelves for others, of which the father dyed preſently but the ſonne by reaſon of youth and antedote, had leaſure to ſee what he had formerly gotten, torne out of his hands; And he forced to flee to his father in Law the King of <hi>Navarre</hi> in whoſe ſervice he was murthered.</p>
+            <p>To theſe ambitious practiſes of princes, may be added the domeſticall impietie of the Pope, who was a corrivall with his two ſonnes in the love of his owne daughter the Lady <hi>Lucre<g ref="char:EOLhyphen"/>tia;</hi> whom they all three injoyed; which bred ſuch a hatred be<g ref="char:EOLhyphen"/>tweene the brothers that <hi>Caeſar</hi> being jealous that the other had a greater ſhare in her affection; kild him one night, &amp; threw him into <hi>Tiber;</hi> Nay it could not be diſcerned when the head of the Church ſpake truth or falſhood but by the extraordinary execrations he uſed when he meant to deceive.</p>
+            <p>Neither are theſe only the commodities of <hi>Italy</hi> but the uſu<g ref="char:EOLhyphen"/>all trafique of all the Courts in the world, for the marke that God hath ſet upon <hi>Ieroboam</hi> (who according to our dialect) may be ſtiled the <hi>Machiavell</hi> of the <hi>Iewes,</hi>) cannot ſcare moſt <hi>Princes</hi> out of his path; For how many Kings have failed to ſet up Altars, both at <hi>Bethel</hi> and <hi>Dan,</hi> when they thinke their power may be weakned by the people going to <hi>Hieruſalem; Saul</hi> being a private man went to the Prophet to aske after his Fathers Aſſes, But being a King went to the Divell to know the ſucceſſe of a battell.</p>
+            <p>Chriſt himſelfe ſaith, not many great, not many mightie are called; Men in ſoft rayment may be found at Court but their conſciences are commonly ſcared and hard.</p>
+            <p>This makes me thinke the wiſe men that came from farre to ſee our Saviour, thought him an earthly Prince and not the King of heaven, elſe they would never have ſought him in the Court of <hi>Herod</hi> from whence nothing could come but cruelty and oppreſſion.</p>
+            <p>The Church of <hi>Rome</hi> that did anciently deſerve honour of all
+<pb n="5" facs="tcp:156225:3"/>the world; After it came to be a Court grew fruitful only in im<g ref="char:EOLhyphen"/>piety; and though we doe acknowledge her ſtill to be a Church becauſe ſhee hath all the liniament of Religion in her, yet they are ſo blended in ſuperſtition, pomp and cruelty, that it is no eaſy taske to finde the truth amongſt them. For as a good fruit-tree leaves not to be the ſame it was before, though covered and imbraced with ivie and ill weeds, the naturall daughters of time, which neither ſpare things ſacred nor prophane, ſo <hi>Rome</hi> may be called a Church ſtil, though covered with traſh and idle ceremonies; in which the Pope and the Cardinals ſhroud them<g ref="char:EOLhyphen"/>ſelves, ſo as if knowledge occaſioned by the elumination of God, had not houted them out of ſome corners of the world, they had not onely made good, by an unqueſtioned preſcription thoſe errors in being, but brought in more, and being themſelves maſters of all temporall eſtates, and were there nothing elſe againſt them but greatneſſe and impiety, it were enough to convince them, of falſhood and novelty, pride is acknowledged by all to be the root of ill, now where doth it proſper ſo well or grow ſo ſtrong as in Princes and ſuch as doe attend on their affairs, the effects of which ſinne, can be con<g ref="char:EOLhyphen"/>tain'd in no narrower co<g ref="char:cmbAbbrStroke">̄</g>paſſe, than the whole maſſe of impie<g ref="char:EOLhyphen"/>ty that is apt to co<g ref="char:cmbAbbrStroke">̄</g>mit, for it made <hi>Phocas</hi> kill his Maſter, <hi>Caeſar</hi> to overthrow the liberty of the braveſt Common-wealth that ever the world did or is likely to behold, it prompts the hand of children to pull unſeaſonably the pillowes from under the heads of their dying fathers, it is this that fils heaven and hell with ſoules, the earth with bloud, this pride made <hi>Charles</hi> the fifth to arme himſelf againſt his owne Pope, that very yeare in which God had done him the honour to take one of the great<g ref="char:EOLhyphen"/>eſt Monarchs in chriſtendom priſoner, it cauſed his ſon <hi>Philip</hi> to mingle the bloud of his owne child with the infinite quantity heſpilt upon the face of <hi>Europe,</hi> yet his thirſt could not be quenſhed, though he ſet a new world abroach in <hi>America,</hi> which he let runne till it was as void of people, as he was of pitty.</p>
+            <p>Is a Prince named in any Chronicle, but in read letters, nay what are chronicles regiſters of bloud and projects to procure
+<pb n="6" facs="tcp:156225:4"/>it, yet none blames them that write them I doe not intend to make an Apology for him; being ſo well acquainted with the miſeries of thoſe, that are ſo unhappy as to fall under the go<g ref="char:EOLhyphen"/>verment of ſuch principles, all I aime at is, to prove that if he were juſtly arrained he could not be condemned by men in like place, who ever were his peers if not worſe, becauſe advice without execution hurt onely the giver.</p>
+            <p>Yet <hi>Machiavell</hi> ſaith, what Prince had not rather be <hi>Titus</hi> than <hi>Nero,</hi> but if he will needs be a <hi>Tyrant</hi> he ſhewes him the way that is leaſt hurtfull to his temporall eſtate, as if he ſhould ſay thou haſt made thy ſelfe already an eenimie to God and thy people, and haſt nothing to hope for, beyond the honour of this world, therefore to keepe thee from the fury of men be ſure thou art perfectly wicked, a taske not hitherto performed it be<g ref="char:EOLhyphen"/>ing yet beyond example that any <hi>Tyrant</hi> ſhould performe all the miſchiefe, that was requiſite for his ſafety no more than the beſt Kings, did ever all the good; and of this he makes <hi>Caeſar Borga Alexander</hi> the 6 ſonne a patterne, who removed all the impediments that ſtood betweene him and his deſires, and pro<g ref="char:EOLhyphen"/>vided againſt all croſſe accidents but his owne, being ſick at the time of his fathers death, which hindered him ſo as he had no leaſure to attend his buſineſſe, which was to make one ſuo<g ref="char:EOLhyphen"/>ceed in his fathers place, that might at leaſt have favoured his projects; But I verily beleeve, as I ſee by daily experience, that thoſe which goe on in the ſame track, though they have brought their purpoſes to as happy a concluſion, yet they ſhall not want impediments, or diſcontents, that ſhall out-talke the pleaſure of their Ambition, but ſince it is oftentimes the will of God to give ſucceſſe to ill meanes wiſly contrived, who can adviſe better than this Florentine a member of the Romane Church, and is in that regard to be leſſe blamed, becauſe he had as much Religion as the Pope then in being; with whom all impieties were as familiar as the ayre he breathed in.</p>
+            <p>Neither are theſe rules he ſpeakes of omitted in the beſt Kings, if they be wiſe; for which of them doth not diſpatch his ungratefull actions by deputies; and thoſe that are popular, with his own hands? doe any obſerve their promiſe ſo exactly
+<pb n="7" facs="tcp:156225:4"/>as not to fayle when they ee the profit greater than can be ex<g ref="char:EOLhyphen"/>pected at another time? and all this he ſaith only to a Prince. For had he given thoſe documents to a Sonne, or any other that had filled any narrower roome than a kingdome; he might with juſter reaſon have undergone all cenſure; but being to make a Grammar for the underſtanding of Tyrannicall go<g ref="char:EOLhyphen"/>vernment, is he to be blamed for ſetting downe the generall rules of ſuch Princes? Now if falſhood and deceit be not their true dialect, let any judge that reads their ſtories? Nay co<g ref="char:EOLhyphen"/>zenage is reduced into ſo neceſſary an art amongſt them; that he that knows not how to deceive, knowes not how to live. That breach of faith in private men, is damnable, and diſhone<g ref="char:EOLhyphen"/>rable, he cannot deny. But Kings ſeeme to have larger Char<g ref="char:EOLhyphen"/>ters by reaſon of their univerſall commerce, and as Ambaſſa<g ref="char:EOLhyphen"/>dors may be excuſed if they lye abroad for the good of their Countrey; becauſe they repreſent their Maſters perſons; with farre greater reaſon may they do it than they that im<g ref="char:EOLhyphen"/>ploy them, provided they turne not the edge of theſe qualities towards their owne people to whom they are tyde in a more naturall, and honeſt Obligation.</p>
+            <p>For a Common-wealth is like a naturall body, and when it is all together ſhewes a comely ſtructure, but ſearch into the entrals from whence the true nouriſhment proceedes, and you ſhall finde nothing but blood, filth, and french; the truth is, this man hath raked too farre in this, which makes him ſmell as he doth in the noſtrils of ignorant people; whereas the better ex<g ref="char:EOLhyphen"/>perienced know, it is the wholſome favour of the Court, eſ<g ref="char:EOLhyphen"/>pe<g ref="char:EOLhyphen"/>cially where the Prince is of the firſt head.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
